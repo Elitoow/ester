@@ -1,0 +1,6 @@
+{
+  "absolute_paths": "replace_with_<PROJECT_ROOT>",
+  "private_real_text": "exclude",
+  "user_private_memory": "exclude",
+  "max_git_blob_bytes": 104857600
+}

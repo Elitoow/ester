@@ -1,0 +1,3 @@
+{
+  "deny_names": [".env", ".venv", "models", "weights", "holdout", "B45", "private", "credentials", "secrets", "tokens", "conversation_dumps"]
+}

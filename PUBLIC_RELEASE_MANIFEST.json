@@ -1,0 +1,11 @@
+{
+  "release_status": "LOCAL_READY_AUTH_REQUIRED",
+  "historical_tree_modified": false,
+  "private_real_text": 0,
+  "user_private_memory": 0,
+  "holdout_payload": 0,
+  "b45_protected_payload": 0,
+  "credentials": 0,
+  "secret_tokens": 0,
+  "license_status": "USER_DECISION_REQUIRED"
+}
