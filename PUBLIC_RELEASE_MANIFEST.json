@@ -7,7 +7,6 @@
     "CONTRIBUTING.md": "9749e660989f23244803d6005af0935f24ccd185f0de5d3bdca04a8a4e3a42bc",
     "LICENSE_DECISION_REQUIRED.md": "d7c67dd763f13dfadd446b86542f2a5203faca147da34e5bd8e90d31a0d28332",
     "PREPARE_ESTER_PUBLIC_RELEASE.bat": "7f4a8ae5272ba260e2fbfd3ff0ab14a8253265e8d461cae0411eecdf62f1f03e",
-    "PUBLIC_RELEASE_MANIFEST.json": "36be978abce1fc8f74955dce6300dbcdda9e556b010ac243dbe2e24d8c986fea",
     "README.md": "49779a5003caf30c68133fbf76bcdd0cfb72e1a7edeb41b590feb6f5364b8a6a",
     "SECURITY.md": "88a0140ae109df1da39ff25476004fb256a44eff246bdf3127be965322a5c6c5",
     "datasets/public/ESTER_CONVERSATIONAL_SUBSTRATE_V0.jsonl": "f11f7eacf73ce7433bf8db8d52c17e06a8fcc57e48d82760d21c199a77f5098c",
@@ -40,6 +39,14 @@
   "secret_scan_critical": 0,
   "privacy_scan_critical": 0,
   "large_git_blob_violations": 0,
-  "release_status": "LOCAL_READY_AUTH_REQUIRED",
-  "license_status": "USER_DECISION_REQUIRED"
+  "release_status": "PUBLISHED",
+  "license_status": "USER_DECISION_REQUIRED",
+  "private_remote_url": "https://github.com/Elitoow/ester-private",
+  "public_remote_url": "https://github.com/Elitoow/ester",
+  "private_visibility": "PRIVATE",
+  "public_visibility": "PUBLIC",
+  "private_source_of_truth": true,
+  "public_sanitized_derivative": true,
+  "manifest_self_hashing": "excluded_to_avoid_self_reference",
+  "public_commit_before_manifest_update": "b8ac56c57eb573dcc5fb848f80044e33a07c8e91"
 }
